@@ -14,3 +14,7 @@
 ← LEFT
 
 → RIGHT
+
+**MECHANICS:**
+
+-Do not touch the <ins>walls</ins> and <ins>spikes</ins>
