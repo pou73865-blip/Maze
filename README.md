@@ -3,9 +3,9 @@
 
 -Big <ins>HitBoxes</ins>
 
-(This is not a bug, it's a file with a large <ins>invisible</ins> area)
+(This is not a bug, it's a file with a large <ins>invisible area</ins>)
 
-**MANAGEMENT**
+**MANAGEMENT:**
 
 ↑ UP 
 
