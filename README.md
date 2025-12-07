@@ -20,3 +20,4 @@
 -Do not touch the <ins>walls</ins> and <ins>spikes</ins>
 
 <img width="1920" height="1080" alt="Снимок экрана (170)" src="https://github.com/user-attachments/assets/e38978c7-3c40-4ed3-9ff9-02143745f66a" />
+<img width="1920" height="1080" alt="Снимок экрана (171)" src="https://github.com/user-attachments/assets/fb2688d9-ff97-4492-ba97-e950101c0fb9" />
